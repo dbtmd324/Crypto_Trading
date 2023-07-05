@@ -165,9 +165,9 @@ def start_buytrade(buy_amt):
                     # 실제 매매를 원하시면 테스트를 충분히 거친 후 주석을 해제하시면 됩니다.
                     # ------------------------------------------------------------------
                     logging.info('시장가 매수 시작! [' + str(target_item['market']) + ']')
-                    # rtn_buycoin_mp = upbit.buycoin_mp(target_item['market'], buy_amt)
+                    rtn_buycoin_mp = upbit.buycoin_mp(target_item['market'], buy_amt)
                     logging.info('시장가 매수 종료! [' + str(target_item['market']) + ']')
-                    # logging.info(rtn_buycoin_mp)
+                    logging.info(rtn_buycoin_mp)
 
     # ---------------------------------------
     # 모든 함수의 공통 부분(Exception 처리)
