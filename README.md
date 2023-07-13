@@ -5,3 +5,4 @@ Repository for crypto trading bot
 업비트 API 활용 크립토 역추세 트레이딩 봇 제작 중
 - 바이낸스 API 활용 제작 예정
 - 주식 알고리즘 트레이딩 봇 활용 예정
+- 비트코인, 이더리움 거래 예정
