@@ -7,3 +7,4 @@ Repository for crypto trading bot
 - 주식 알고리즘 트레이딩 봇 활용 예정
 - 비트코인, 이더리움 거래 예정
 - 완성하는게 목표
+- 전략 매매 적용
