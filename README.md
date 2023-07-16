@@ -8,3 +8,4 @@ Repository for crypto trading bot
 - 비트코인, 이더리움 거래 예정
 - 완성하는게 목표
 - 전략 매매 적용
+- 리포트 자동 수집 봇 제작
