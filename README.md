@@ -9,3 +9,4 @@ Repository for crypto trading bot
 - 완성하는게 목표
 - 전략 매매 적용
 - 리포트 자동 수집 봇 제작
+- 화요일부터 거래 시작
