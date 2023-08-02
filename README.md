@@ -12,3 +12,4 @@ Repository for crypto trading bot
 - 화요일부터 거래 시작
 - 거래 준비중
 - 역추세전략 활용 준비중
+- 마법 공식 적용 예정
